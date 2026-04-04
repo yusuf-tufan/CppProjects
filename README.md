@@ -12,5 +12,6 @@ Each project is organized in its own directory, containing the main `.cpp` file 
 | Project Name | Description |
 |--------------|-------------|
 | 🔢 **[01_number_guessing_game](./01_number_guessing_game)** | An interactive terminal-based number guessing game. The program allows the user to define a number range, accepts guesses within that range, counts attempts, and provides warning messages for invalid inputs. 🕹️💡 |
+| ✅ **[02_todolist](./02_todo_list_app)** | A practical C++ CLI To-Do List that lets you create, edit, and manage tasks. It features an automatic text-wrapping table system to keep your list organized and readable in the terminal. 📝🚀 |
 
 ---
